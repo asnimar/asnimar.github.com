@@ -1,3 +1,1 @@
-http://asnimar.github.com
-
-the server is on tb151.
+asnimar.github.com
